@@ -1,0 +1,11 @@
+E:\HocTap\HK3\LapTrinhTrucQuan\TuHocC#\CustomControl\CustomControl\Bai3_FormDaNgonNgu\bin\Debug\Language\Form1.xml
+E:\HocTap\HK3\LapTrinhTrucQuan\TuHocC#\CustomControl\CustomControl\Bai3_FormDaNgonNgu\obj\Debug\Bai3_FormDaNgonNgu.csprojResolveAssemblyReference.cache
+E:\HocTap\HK3\LapTrinhTrucQuan\TuHocC#\CustomControl\CustomControl\Bai3_FormDaNgonNgu\obj\Debug\MultiLanguages.Form1.resources
+E:\HocTap\HK3\LapTrinhTrucQuan\TuHocC#\CustomControl\CustomControl\Bai3_FormDaNgonNgu\obj\Debug\MultiLanguages.Properties.Resources.resources
+E:\HocTap\HK3\LapTrinhTrucQuan\TuHocC#\CustomControl\CustomControl\Bai3_FormDaNgonNgu\obj\Debug\Bai3_FormDaNgonNgu.csproj.GenerateResource.Cache
+E:\HocTap\HK3\LapTrinhTrucQuan\TuHocC#\CustomControl\CustomControl\Bai3_FormDaNgonNgu\obj\Debug\Bai3_FormDaNgonNgu.csproj.CoreCompileInputs.cache
+E:\HocTap\HK3\LapTrinhTrucQuan\TuHocC#\CustomControl\CustomControl\Bai3_FormDaNgonNgu\obj\Debug\MultiLanguages.exe
+E:\HocTap\HK3\LapTrinhTrucQuan\TuHocC#\CustomControl\CustomControl\Bai3_FormDaNgonNgu\obj\Debug\MultiLanguages.pdb
+E:\HocTap\HK3\LapTrinhTrucQuan\TuHocC#\CustomControl\CustomControl\Bai3_FormDaNgonNgu\bin\Debug\MultiLanguages.exe.config
+E:\HocTap\HK3\LapTrinhTrucQuan\TuHocC#\CustomControl\CustomControl\Bai3_FormDaNgonNgu\bin\Debug\MultiLanguages.exe
+E:\HocTap\HK3\LapTrinhTrucQuan\TuHocC#\CustomControl\CustomControl\Bai3_FormDaNgonNgu\bin\Debug\MultiLanguages.pdb
